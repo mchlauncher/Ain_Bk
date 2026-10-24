@@ -1,5 +1,5 @@
 appId: 'Ain_Bk'
-productName: '아인'
+productName: '화성게임'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025-2026 gotiger (original author: © 2018-2026 Daniel Scalzi)'

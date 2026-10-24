@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "아인"
+title = "화성게임"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/Ain_Bk"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/Ain_Bk"
 supportLink = "https://github.com/mchlauncher/Ain_Bk/issues"
 
 [ejs.welcome]
-welcomeHeader = "아인"
-welcomeDescription = ""
+welcomeHeader = "화성게임"
+welcomeDescription = "탈출 서바이벌"
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
